@@ -1,8 +1,8 @@
 import * as Utils from "./utils.js";
 
-const RedBubble = "../img/bubble-red.png";
-const BlueBubble = "../img/bubble-blue.png";
-const PurpleBubble = "../img/bubble-purple.png";
+const RedBubble = "img/bubble-red.png";
+const BlueBubble = "img/bubble-blue.png";
+const PurpleBubble = "img/bubble-purple.png";
 
 export default class Bubbles {
   /** @param {HTMLElement} container */
