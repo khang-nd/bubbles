@@ -1,0 +1,14 @@
+{
+  "name": "bubbles",
+  "version": "0.1.0",
+  "description": "A recreation of the Windows bubbles screensaver.",
+  "main": "index.js",
+  "author": "khang-nd <khang.nguyenduyvn@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^12.0.0"
+  }
+}
